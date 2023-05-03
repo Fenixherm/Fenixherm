@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Guilherme 😁
-
+ 
+ Atualmente estudando Front-end, HTML, CSS e Javascript e fazendo faculdade de Ciência da Computação.
  <div>
    <a href="https://github.com/fenixherm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fenixherm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
