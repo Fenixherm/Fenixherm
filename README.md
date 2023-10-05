@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Guilherme 😁
  
- Atualmente estudando Front-end, HTML, CSS e Javascript e fazendo faculdade de Ciência da Computação.
+ Atualmente buscando transição de carreira fazendo faculdade de Ciência da Computação e Bootcamps da DIO.me
  <div>
    <a href="https://github.com/fenixherm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fenixherm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Se quiser saber mais sobre mim:
+  ### Um pouco mais sobre mim:
  
 <div> 
   <a href="https://instagram.com/Fenixherm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
