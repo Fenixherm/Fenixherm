@@ -3,7 +3,6 @@
  Atualmente buscando transição de carreira fazendo faculdade de Ciência da Computação e Bootcamps da DIO.me
  <div>
    <a href="https://github.com/fenixherm">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fenixherm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenixherm&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
